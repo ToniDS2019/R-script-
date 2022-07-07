@@ -2,8 +2,7 @@
 
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.
 
- - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)]https://hub.gke2.mybinder.org/user/tonids2019-jupy-k---first-app_r-ylybjlav/lab/tree/ModelScatterR%20(4).r
-
+ - Launch in Jupyter Lab:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ToniDS2019/R-script-/master)
 Example files included:
 
  - `python_example_for_Jupyter.ipynb` - Notebook file using a python kernel for working in Jupyter
